@@ -1,0 +1,23 @@
+# Updated on 2025-03-30 - commit 3
+# Updated on 2025-03-30 - commit 2
+# Updated on 2025-03-26 - commit 4
+# Updated on 2025-03-22 - commit 4
+# Updated on 2025-03-20 - commit 2
+# Updated on 2024-03-31 - commit 2
+# Updated on 2024-03-02 - commit 4
+numpy==1.16.1
+opencv-contrib-python==4.2.0.84
+opencv-python==4.2.0.84
+openpyxl==3.1.5
+pandas==2.2.3
+pillow==11.0.0
+pyttsx3==2.71
+
+
+
+
+
+
+
+
+
