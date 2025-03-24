@@ -1,3 +1,4 @@
+# Updated on 2025-03-24 - commit 2
 # Updated on 2025-03-18 - commit 2
 # Updated on 2025-03-03 - commit 3
 # Updated on 2024-03-17 - commit 2
@@ -46,6 +47,7 @@ def getImagesAndLables(path):
         faces.append(imageNp)
         Ids.append(Id)
     return faces, Ids
+
 
 
 
