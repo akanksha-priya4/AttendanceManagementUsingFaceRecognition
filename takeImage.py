@@ -1,3 +1,4 @@
+# Updated on 2025-03-29 - commit 2
 # Updated on 2025-03-27 - commit 3
 # Updated on 2025-03-26 - commit 2
 # Updated on 2025-03-04 - commit 2
@@ -79,6 +80,7 @@ def TakeImage(l1, l2, haarcasecade_path, trainimage_path, message, err_screen,te
         except FileExistsError as F:
             F = "Student Data already exists"
             text_to_speech(F)
+
 
 
 
