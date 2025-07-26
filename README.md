@@ -102,9 +102,20 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Your Name - [Your GitHub Profile]
+Akanksha Priya - https://github.com/akanksha-priya4/
 
 ## Acknowledgments
 
 - OpenCV community for face detection algorithms
-- Python community for excellent libraries and tools 
+- Python community for excellent libraries and tools
+
+## Screenshots
+
+- HomePage
+<img width="1920" height="1208" alt="screencapture-localhost-5000-2025-07-26-14_42_19" src="https://github.com/user-attachments/assets/575c6d3e-d847-482d-b3c9-6150e2ae8487" />
+
+- Dashboard
+<img width="1920" height="868" alt="screencapture-10-2-0-2-5000-dashboard-2025-07-26-15_32_09" src="https://github.com/user-attachments/assets/cc5a6308-acc8-4f51-a935-6d386b3813c6" />
+
+- Take Photo
+<img width="1920" height="868" alt="screencapture-10-2-0-2-5000-take-photo-2025-07-26-15_33_13" src="https://github.com/user-attachments/assets/0f03c451-9aba-483d-9b39-e430029c1ff5" />
